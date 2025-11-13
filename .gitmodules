@@ -1,9 +1,9 @@
 [submodule "plugins/tmux-scroll-copy-mode"]
 	path = plugins/tmux-scroll-copy-mode
-	url = git@github.com:adamk33n3r/tmux-scroll-copy-mode
+	url = https://github.com/adamk33n3r/tmux-scroll-copy-mode
 [submodule "plugins/tmux-sensible"]
 	path = plugins/tmux-sensible
-	url = git@github.com:tmux-plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible
 [submodule "plugins/tpm"]
 	path = plugins/tpm
-	url = git@github.com:tmux-plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
